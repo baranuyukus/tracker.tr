@@ -1,6 +1,7 @@
 import requests
 import re
 import time
+import random
 url = "https://wunder.com.tr/search?search=Court%20Purple"
 sms = "https://api.iletimerkezi.com/v1/send-sms/get/?username=5511939262&password=GUes57VgBgmptPk&text=Lorem%20ipsum%20dolor%20sit%20amet&receipents=5511939262,5422158901&sender=APITEST"
 user_agent_list = [
