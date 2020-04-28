@@ -187,4 +187,4 @@ async def on_message(message):
 
 
 # Botu token ile çalıştırıyoruz.
-client.run('NzAzNjY1ODA4MzU3NzIwMDc1.Xqfh8w.7VmDCi8N-5mzBhjLivrOXUslyVE')
+client.run('NzAzNjY1ODA4MzU3NzIwMDc1.XqgDgA.RhPAZCnjmoeT0L-DPrKAMzU-7VE')
